@@ -83,6 +83,10 @@ const WALLETS = [
     image: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/rainbow-UHi1JV10LMbvkagMObX2KzbCOZgxiD.jpg',
   },
   {
+    name: 'Exodus',
+    image: '/Exodus.png',
+  },
+  {
     name: 'Ledger Live',
     image: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/ledger_live-zAQlSW017R6orBke0Aq6c081UpCHRC.jpg',
   },
@@ -101,6 +105,10 @@ const WALLETS = [
   {
     name: 'RWallet',
     image: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/rwallet-rTfsouqmh79Z9Mu9cGceIrRNtij9vV.jpg',
+  },
+  {
+    name: 'Klever',
+    image: '/kleaver.png',
   },
   {
     name: 'MetaMask',
